@@ -11,3 +11,5 @@ F11 Plein ecran
 CTRL + G Tetris
 
 CTRL + O Ouvrir un projet
+
+CTRL + F Changer de focus
