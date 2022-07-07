@@ -13,3 +13,6 @@ CTRL + G Tetris
 CTRL + O Ouvrir un projet
 
 CTRL + F Changer de focus
+
+
+Il est nécessaire de lancer le .jar depuis Windows.
